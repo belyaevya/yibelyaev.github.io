@@ -17,21 +17,8 @@
   - TS/JS
   - HTML
   - CSS
+  - Zustand
   - и многое другое
-
-## Мои проекты:
-
-### Ингосстрах-Жизнь
-
-- Роль: Junior Frontend Developer.
-- Где: [https://lifeingos.ru/](https://lifeingos.ru/)
-- Стэк и технологии:
-  - HTML
-  - SCSS
-  - JS
-  - SPA
-  - Webpack
-    и т.д.
 
 ## Образование
 
@@ -63,3 +50,11 @@
 - Баскетбол
 - Игры
 - Фильмы и сериалы
+
+## Основной стэк
+
+- HTML
+- CSS
+- SCSS
+- JS
+- React
